@@ -6,7 +6,4 @@ class CreateFigureTitles < ActiveRecord::Migration
       t.integer :figure_id
     end
   end
-endclass CreateFigureTitles < ActiveRecord::Migration
-  def change
-  end
 end
