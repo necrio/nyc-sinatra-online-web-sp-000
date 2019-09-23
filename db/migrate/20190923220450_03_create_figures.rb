@@ -1,4 +1,7 @@
 class 03CreateFigures < ActiveRecord::Migration
-  def change
+ def change
+    create_table :figures do |t|
+      t.string :name
+    end
   end
 end
