@@ -1,3 +1,3 @@
-class Landmark < ActiveRecord::Base
-  # add relationships here
+class Landmark <ActiveRecord::Base
+  belongs_to :figure
 end
