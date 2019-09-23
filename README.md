@@ -63,6 +63,7 @@ Write migrations to create the following tables:
 **Titles**
 
 | **id** |        **name**        |
+
 | :----: | :--------------------: |
 |   1    |         Mayor          |
 |   2    |       President        |
